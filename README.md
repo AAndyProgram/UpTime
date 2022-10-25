@@ -1,4 +1,4 @@
-A simple tool to getting information about computer uptime
+A simple tool to get information about computer uptime
 
 ----
 
